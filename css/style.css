@@ -2940,9 +2940,10 @@ hr {
 }
 
 .button-default, .button-default:focus {
-	color: #151515;
+	color: black;
 	border-color: transparent;
-	background-color: transparent;
+	background-color: #DE1E1E;
+	font-size: 30px;
 }
 
 .button-default::before, .button-default:focus::before {
